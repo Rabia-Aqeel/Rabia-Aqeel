@@ -46,7 +46,11 @@ to build solutions that automate real-world tasks.
 - Gmail
 - Google Sheets
 - Google Drive
-- ConvertAPI
+- Convert API
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabia-Aqeel&show_icons=true&theme=radical&border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia-Aqeel&layout=compact&theme=radical)
 
 ---
 

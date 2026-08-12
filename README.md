@@ -2,7 +2,7 @@
 
 ### AI Automation Engineer | AI Agent Developer
 
-I'm a BS Computer Science student specializing in AI, passionate about building
+I'm a BS Computer Science student, passionate about building
 intelligent automation systems, AI agents, and practical AI-powered workflows.
 
 I focus on combining AI with automation, APIs, integrations, and business logic

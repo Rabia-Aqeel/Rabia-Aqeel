@@ -48,10 +48,6 @@ to build solutions that automate real-world tasks.
 - Google Drive
 - Convert API
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabia-Aqeel&show_icons=true&theme=tokyonight&border=true&count_private=true)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia-Aqeel&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🚀 Featured Project
